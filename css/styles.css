@@ -1,0 +1,8 @@
+/*
+ * Hide index.Rmd's title when rendering the page
+ * but include it in the html <title></title> tags
+ */
+.toc-ignore {
+    margin-top: -1.3em;
+    color: transparent;
+}

@@ -1,0 +1,57 @@
+name: "cv"
+output_dir: "."
+exclude: ["update_cv.R"]
+navbar:
+  title: "Steven Myles's CV"
+  left:
+    - text: Sections
+      icon: fa-caret-square-o-down
+      menu: 
+        - text: "Professional Experience"
+          href: "#professional-experience"
+        - text: "Education"
+          href: "#education"
+        - text: "Professional Development Coursework"
+          href: "#professional-development-coursework"
+        - text: "Certifications"
+          href: "#certifications"
+        - text: "Selected Additional Experience"
+          href: "#selected-additional-experience"
+        - text: "Presentations"
+          href: "#presentations"
+        - text: "Software"
+          href: "#software"
+        - text: "Service Positions and Activities"
+          href: "#service-positions-and-activities"
+        - text: "Awards and Honors"
+          href: "#awards-and-honors"
+    - text: PDF version 
+      icon: fa-file-pdf-o
+      href: stevenmyles_cv.pdf
+  right:
+    - text: Main Site
+      icon: fa-home
+      href: https://s.mylesandmyles.info/
+    - text: LinkedIn
+      icon: fa-linkedin-square
+      href: https://www.linkedin.com/in/stevenmyles
+    - text: GitHub
+      icon: fa-github
+      href: https://github.com/scumdogsteev
+    - text: Blog
+      icon: fa-link
+      href: https://s.mylesandmyles.info/blog/
+    - text: Tumblr
+      icon: fa-tumblr
+      href: https://steve.mylesandmyles.info/
+    - text: Email
+      icon: fa-envelope
+      href: mailto:steve[at]mylesandmyles.info
+output:
+  html_document:
+    theme: cosmo 
+    highlight: 
+    include:
+      in_header: includes/header.html 
+      after_body: includes/footer.html
+    css: css/styles.css

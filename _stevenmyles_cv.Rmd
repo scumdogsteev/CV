@@ -1,0 +1,28 @@
+---
+author: Steven Myles
+params:
+  d: !r Sys.Date()
+header-includes:
+  - \newcommand{\author}{Steven Myles}
+  - \newcommand{\Date}{date}
+output:
+  pdf_document:
+    toc: no
+    includes:
+      in_header: includes/pdf-layout.tex
+---
+Steven Myles
+============
+
+## Contact and Web Links:  
+
+* Email:  steve@mylesandmyles.info
+* Web:  https://s.mylesandmyles.info/
+* CV:  https://s.mylesandmyles.info/cv/
+* LinkedIn:  https://www.linkedin.com/in/stevenmyles
+* Github:  https://github.com/scumdogsteev
+* Blog:  https://s.mylesandmyles.info/blog/
+* Tumblr:  https://steve.mylesandmyles.info/
+
+```{r child = "index.Rmd"}
+```

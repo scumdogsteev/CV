@@ -1,0 +1,13 @@
+\usepackage{fancyhdr}
+\usepackage{ifthen}
+\pagestyle{fancy}
+\fancypagestyle{firstpage}{% special style for the first page with no header
+  \fancyhf{}%
+  \renewcommand{\headrulewidth}{0mm}%
+  \rfoot{Page \thepage\ | updated \today}
+} 
+\lhead{}
+\rfoot{Page \thepage\ | updated \today}
+\cfoot{}
+\renewcommand{\footrulewidth}{1pt}
+\thispagestyle{firstpage}% no header on the first page

@@ -1,0 +1,22 @@
+---
+title: Steven Myles's CV
+permalink: /index.html
+---
+```{r child = "includes/professional-experience.md"}
+```
+```{r child = "includes/education.md"}
+```
+```{r child = "includes/professional-development-coursework.md"}
+```
+```{r child = "includes/certifications.md"}
+```
+```{r child = "includes/selected-additional-experience.md"}
+```
+```{r child = "includes/presentations.md"}
+```
+```{r child = "includes/software.md"}
+```
+```{r child = "includes/service-positions-and-activities.md"}
+```
+```{r child = "includes/awards-and-honors.md"}
+```
