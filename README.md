@@ -1,4 +1,4 @@
-## CV for [Steve Myles](https://s.mylesandmyles.info/)
+## CV for [Steve Myles](https://stevemyles.site/)
 
 ## Workflow
 
