@@ -23,20 +23,20 @@
   Lin, Atul Dhawan, **Steven Myles**, and [Saravanan Venkatachalam][saravanan]. 
   [INFORMS 2005][informs05], 13--16 November 2005
   
-[storytelling]: https://steve.mylesandmyles.info/post/31311327069/storytelling-for-engineers
+[storytelling]: https://stevemyles.site/blog/2012/09/09/storytelling-for-engineers/
 [uh]: https://www.uh.edu/
 [cullen]: https://www.egr.uh.edu/
 [promes]: http://promes.egr.uh.edu/
-[mypw]: https://steve.mylesandmyles.info/post/31304771991/on-saturday-9-8-i-participated-in-the-university
+[mypw]: https://stevemyles.site/blog/2012/09/09/uh-maximizing-your-power-weekend/
 [uhcamp]: https://www.egr.uh.edu/camps
-[posccaa]: https://steve.mylesandmyles.info/post/533904394/projecting-outsourced-contact-center-agent
+[posccaa]: https://stevemyles.site/blog/2008/02/29/projecting-outsourced-contact-center-agent-availability/
 [upenn]: https://www.upenn.edu/
 [wharton]: https://www.wharton.upenn.edu/
 [fic]: https://fic.wharton.upenn.edu/fic/
 [ccforum]: https://web.archive.org/web/20100623190502/http://fic.wharton.upenn.edu/fic/call%20center%2008/agenda.htm
-[informs07pres]: https://steve.mylesandmyles.info/post/533880622/informs-2007-presentations
+[informs07pres]: https://stevemyles.site/blog/2007/10/30/informs-2007-presentations/
 [jek]: https://ise.utk.edu/people/john-e-kobza/
 [informs07]: https://web.archive.org/web/20140731003202/http://meetings2.informs.org/Seattle07/
-[informs05pres]: https://steve.mylesandmyles.info/post/529327281/informs-2005-presentations
+[informs05pres]: https://stevemyles.site/blog/2005/11/11/informs-2005-presentations/
 [informs05]: https://web.archive.org/web/20170524053146/http://meetings2.informs.org/NO2005/
 [saravanan]: https://engineering.wayne.edu/profile/saravanan.venkatachalam/

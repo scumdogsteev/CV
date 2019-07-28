@@ -4,6 +4,8 @@ permalink: /index.html
 ---
 ```{r child = "includes/professional-experience.md"}
 ```
+### ```{r child = "includes/teaching-experience.md"}
+### ```
 ```{r child = "includes/education.md"}
 ```
 ```{r child = "includes/professional-development-coursework.md"}
@@ -12,6 +14,8 @@ permalink: /index.html
 ```
 ```{r child = "includes/selected-additional-experience.md"}
 ```
+### ```{r child = "includes/publications.md"}
+### ```
 ```{r child = "includes/presentations.md"}
 ```
 ```{r child = "includes/software.md"}

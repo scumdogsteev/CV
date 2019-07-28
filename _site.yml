@@ -1,3 +1,7 @@
+### Site settings
+###
+### comments are prefaced with three pound signs
+### remove comments to add sections
 name: "cv"
 output_dir: "."
 exclude: ["update_cv.R"]
@@ -9,6 +13,8 @@ navbar:
       menu: 
         - text: "Professional Experience"
           href: "#professional-experience"
+        ###- text: "Teaching Experience"
+        ###  href: "#teaching-experience"
         - text: "Education"
           href: "#education"
         - text: "Professional Development Coursework"
@@ -17,6 +23,8 @@ navbar:
           href: "#certifications"
         - text: "Selected Additional Experience"
           href: "#selected-additional-experience"
+        ###- text: "Publications"
+        ###  href: "#publications"
         - text: "Presentations"
           href: "#presentations"
         - text: "Software"
@@ -28,25 +36,82 @@ navbar:
     - text: PDF version 
       icon: fa-file-pdf-o
       href: stevenmyles_cv.pdf
+### links with icons, comment or delete this for links as a dropdown
   right:
     - text: Main Site
       icon: fa-home
-      href: https://s.mylesandmyles.info/
+      href: https://stevemyles.site/
+###    - text: Twitter
+###      icon: fa-twitter
+###      href: https://twitter.com/username
     - text: LinkedIn
       icon: fa-linkedin-square
       href: https://www.linkedin.com/in/stevenmyles
     - text: GitHub
       icon: fa-github
       href: https://github.com/scumdogsteev
+###    - text: Gitlab
+###      icon: fa-gitlab
+###      href: https://gitlab.com/username
     - text: Blog
       icon: fa-link
-      href: https://s.mylesandmyles.info/blog/
+      href: https://stevemyles.site/blog/
     - text: Tumblr
       icon: fa-tumblr
       href: https://steve.mylesandmyles.info/
+###    - text: Reddit
+###      icon: fa-reddit
+###      href: https://www.reddit.com/user/username
+###    - text: Stack Overflow
+###      icon: fa-stack-overflow
+###      href: https://stackoverflow.com/users/userid/username
+###    - text: Medium
+###      icon: fa-medium
+###      href: https://medium.com/@username
+###    - text: Google Scholar
+###      icon: fa-google
+###      href: https://scholar.google.com/citations?user=userid
     - text: Email
       icon: fa-envelope
       href: mailto:steve[at]mylesandmyles.info
+### links dropdown below
+###  right:
+###    - text: Links
+###      icon: fa-caret-square-o-down
+###      menu: 
+###      - text: Main Site
+###        icon: fa-home
+###        href: https://stevemyles.site/
+###      - text: Twitter
+###        icon: fa-twitter
+###        href: https://twitter.com/username
+###      - text: LinkedIn
+###        icon: fa-linkedin-square
+###        href: https://www.linkedin.com/in/stevenmyles
+###      - text: GitHub
+###        icon: fa-github
+###        href: https://github.com/scumdogsteev
+###      - text: Gitlab
+###        icon: fa-gitlab
+###        href: https://gitlab.com/username
+###      - text: Blog
+###        icon: fa-link
+###        href: https://stevemyles.site/blog/
+###      - text: Tumblr
+###        icon: fa-tumblr
+###        href: https://steve.mylesandmyles.info/
+###      - text: Reddit
+###        icon: fa-reddit
+###        href: https://www.reddit.com/user/username
+###      - text: Stack Overflow
+###        icon: fa-stack-overflow
+###        href: https://stackoverflow.com/users/userid/username
+###      - text: Medium
+###        icon: fa-medium
+###        href: https://medium.com/@username
+###      - text: Google Scholar
+###        icon: fa-google
+###        href: https://scholar.google.com/citations?user=userid
 output:
   html_document:
     theme: cosmo 

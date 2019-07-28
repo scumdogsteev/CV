@@ -7,14 +7,14 @@
 [eoq-epq]: https://scumdogsteev.shinyapps.io/eoq-epq/
 [r]: https://www.r-project.org/
 [shiny]: https://www.shinyapps.io/
-[eoq-epqpitch]: https://s.mylesandmyles.info/eoq-epq/ 
+[eoq-epqpitch]: https://stevemyles.site/eoq-epq/ 
 [eoq-epqgh]: https://github.com/scumdogsteev/eoq-epq 
 [mls]: https://steve.mylesandmyles.info/projects/mls-junk-generator/
-[mlssite]: https://s.mylesandmyles.info/mlsjunkgen/
+[mlssite]: https://stevemyles.site/mlsjunkgen/
 [mlscran]: https://cran.r-project.org/web/packages/mlsjunkgen/
 [mlsgh]: https://github.com/scumdogsteev/mlsjunkgen
 [mlsvba]: https://github.com/scumdogsteev/mls-junk-generator
-[pn]: https://s.mylesandmyles.info/phonenumber/
+[pn]: https://stevemyles.site/phonenumber/
 [pncran]: https://cran.r-project.org/web/packages/phonenumber/ 
 [pngh]: https://github.com/scumdogsteev/phonenumber
 [epch]: https://steve.mylesandmyles.info/projects/epc-helper/
