@@ -1,6 +1,6 @@
 ## Professional Experience
 
-**Senior Analyst, Workstation Cost Management**, [HP][hp], 
+**Senior Analyst, Workstation Cost Management**, [HP][hp] Personal Systems Commercial System & Cost Management, 
 Houston, TX, Feb. 2017 -- present
 
 * Track and report costs for workstation products throughout the product
