@@ -1,7 +1,12 @@
 ## Professional Experience
 
+**BPS Cost Analytics**, [HP][hp] Personal Systems Commercial System & Cost Management,
+Houston, TX, Nov-2019 -- present
+
+* Data analytics and visualizations related to commercial PC product cost
+
 **Senior Analyst, Workstation Cost Management**, [HP][hp] Personal Systems Commercial System & Cost Management, 
-Houston, TX, Feb. 2017 -- present
+Houston, TX, Feb. 2017 -- Oct. 2019
 
 * Track and report costs for workstation products throughout the product
   development lifecycle.
