@@ -1,8 +1,11 @@
+options(tinytex.verbose = TRUE)
 setwd("~/GitHub/cv")
-pdf_Rmd <- "_stevenmyles_cv.Rmd"
-pdf_out <- "stevenmyles_cv.pdf"
+name <- "stevenmyles"
+cv <- paste0(name, "_cv")
+pdf_Rmd <- paste0("_", cv, ".Rmd")
+pdf_out <- paste0(cv, ".pdf")
 require(rmarkdown)
 require(tinytex)
 render_site()
 render(pdf_Rmd, output_format = "pdf_document", output_file = pdf_out)
-invisible(file.remove("README.html"))
+invisible(file.remove("index.pdf"))

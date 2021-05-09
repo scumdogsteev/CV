@@ -19,7 +19,7 @@ University][ttu], Lubbock, TX, 2002
 * Cum Laude
 * [Minor in French][french]
 
-[mba]: https://jindal.utdallas.edu/mba-programs/pmba/
+[mba]: https://mba.utdallas.edu/academics/professional-mba-online/
 [utd]: https://www.utdallas.edu/
 [jindal]: https://jindal.utdallas.edu/
 [jindal-distinction]: https://jindal.utdallas.edu/academic-programs/graduate-degree-academic-honors/

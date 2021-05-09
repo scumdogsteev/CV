@@ -3,7 +3,6 @@ author: Steven Myles
 params:
   d: !r Sys.Date()
 header-includes:
-  - \newcommand{\author}{Steven Myles}
   - \newcommand{\Date}{date}
 output:
   pdf_document:
@@ -16,14 +15,14 @@ Steven Myles
 
 ## Contact and Web Links:  
 
-* Email:  steve@mylesandmyles.info
+* Email:  steve[at]mylesandmyles.info
 * Web:  https://stevemyles.site/
 * CV:  https://stevemyles.site/cv/
 * LinkedIn:  https://www.linkedin.com/in/stevenmyles
 * Github:  https://github.com/scumdogsteev
 * Blog:  https://stevemyles.site/blog/
 * Tumblr:  https://steve.mylesandmyles.info/
-<!-- remove the comments to add your links
+<!-- remove the comments to add links
 * Twitter: https://twitter.com/username
 * Gitlab:  https://gitlab.com/username
 * Reddit:  https://www.reddit.com/user/username

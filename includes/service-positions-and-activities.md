@@ -1,12 +1,20 @@
 ## Service Positions and Activities
 
+**Board Member**, [Industrial, Manufacturing, and Systems Engineering Industrial Advisory 
+  Board][iab], [Department of Industrial, Manufacturing & Systems 
+  Engineering][imse], [Texas Tech University][ttu], Jun. 2020 -- present
+
+* Provide curriculum and other feedback to the IMSE faculty
+* Conduct mock interviews with and perform resume critiques for IMSE
+  students
+
 **Fundraiser**, [Houston Food Bank][hfb], Jan. 2018
 
 * Raised more than $1,000 by running the Aramco Houston Half Marathon (with 
   Elizabeth Myles).
 
 **Board Member** and **Chair of the Alumni Feedback Committee**, 
-  [Young Guns Texas Tech Young Engineering Alumni][ttuyg], Mar. 2014 -- present
+  [Young Guns Texas Tech Young Engineering Alumni][ttuyg], Mar. 2014 -- Dec. 2018
 
 * Plan for, develop, and coordinate delivery of an alumni feedback survey
 * Plan and conduct monthly committee meetings, devising ways to gather alumni
@@ -52,6 +60,9 @@ Jun. 2012 -- Feb. 2014
 
 * Presided over meetings and planned service projects.
 
+[iab]: https://www.depts.ttu.edu/imse/alumni/iab/index.php
+[imse]: https://www.depts.ttu.edu/imse/
+[ttu]: https://www.ttu.edu/
 [hfb]: https://www.houstonfoodbank.org/
 [ttuyg]: http://www.ttuyoungguns.com/
 [wcoe]: https://www.depts.ttu.edu/coe/

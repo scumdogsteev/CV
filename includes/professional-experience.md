@@ -1,9 +1,9 @@
 ## Professional Experience
 
-**BPS Cost Analytics**, [HP][hp] Personal Systems Commercial System & Cost Management,
+**Senior Analyst, Customer Data & Insights**, [HP][hp] Personal Systems Quality, Commercial System & Cost Management,
 Houston, TX, Nov-2019 -- present
 
-* Data analytics and visualizations related to commercial PC product cost
+* Data analytics and visualizations related to PC product cost and shipments.
 
 **Senior Analyst, Workstation Cost Management**, [HP][hp] Personal Systems Commercial System & Cost Management, 
 Houston, TX, Feb. 2017 -- Oct. 2019

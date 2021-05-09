@@ -1,5 +1,5 @@
 ---
-title: Steven Myles's CV
+title: "Steven Myles's CV"
 permalink: /index.html
 ---
 ```{r child = "includes/professional-experience.md"}
@@ -12,13 +12,13 @@ permalink: /index.html
 ```
 ```{r child = "includes/certifications.md"}
 ```
-```{r child = "includes/selected-additional-experience.md"}
-```
 <!-- ```{r child = "includes/publications.md"} 
 ``` -->
 ```{r child = "includes/presentations.md"}
 ```
 ```{r child = "includes/software.md"}
+```
+```{r child = "includes/selected-additional-experience.md"}
 ```
 ```{r child = "includes/service-positions-and-activities.md"}
 ```

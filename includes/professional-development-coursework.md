@@ -1,5 +1,6 @@
 ## Professional Development Coursework
 
+- [**Machine Learning:  From Data to Decisions**][mlfdtd], [MIT Professional Education][mitpe] ([certificate][mlfdtdcert]), Feb. - Apr. 2020
 - **Presenting Your Ideas at the Executive Level**, [Mandel Communications][mandel], Mar. 2019
 - [**Presenting Data and Information**][tufteseminar], [Edward Tufte][tufte], Jan. 2018
 - [**Johns Hopkins University/Coursera Data Science Specialization**][jhudata], 
@@ -19,9 +20,12 @@
 - [**SAS Programming 1:  Essentials**][sasprog], [SAS Institute][sas], 2006
 - [**Project Leadership, Management, and Communications**][projlmc], [ESI International][esi], Mar. 2005
 
-[mandel]:https://www.mandel.com/
-[tufteseminar]:https://www.edwardtufte.com/tufte/courses
-[tufte]:https://www.edwardtufte.com/
+[mlfdtdcert]: https://www.credential.net/320eb5b5-cb8b-4b6f-bd68-8f4070bb8b9a
+[mitpe]: https://professional.mit.edu/
+[mlfdtd]: https://professional.mit.edu/course-catalog/machine-learning-data-decisions-english
+[mandel]: https://www.mandel.com/
+[tufteseminar]: https://www.edwardtufte.com/tufte/courses
+[tufte]: https://www.edwardtufte.com/
 [jhudata]: https://www.coursera.org/specializations/jhu-data-science
 [jhu9]: https://www.coursera.org/learn/data-products
 [jhu9cert]: https://www.coursera.org/account/accomplishments/verify/P3NBJ33AUGFA
