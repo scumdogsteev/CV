@@ -1,6 +1,6 @@
 ## Professional Experience
 
-**Senior Analyst, Customer Data & Insights**, [HP][hp] Personal Systems Quality, Commercial System & Cost Management,
+**Senior Analyst, Customer Data & Insights**, [HP][hp] Personal Systems Quality & Reliability, Commercial System & Cost Management,
 Houston, TX, Nov-2019 -- present
 
 * Data analytics and visualizations related to PC product cost and shipments.
