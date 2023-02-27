@@ -1,5 +1,9 @@
 ## Education
 
+[**Post Graduate Program in Data Science and Business Analytics**][pgp-dsba], 
+[McCombs School of Business][mccombs], [University of Texas at Austin][uta], 
+([certificate][pgp-dsbacert]), Austin, TX, 2022
+
 [**Master of Business Administration**][mba], [Naveen Jindal School of 
 Management][jindal], [University of Texas at Dallas][utd], Richardson, TX, 2012
 
@@ -19,6 +23,10 @@ University][ttu], Lubbock, TX, 2002
 * Cum Laude
 * [Minor in French][french]
 
+[pgp-dsba]: https://la.utexas.edu/greatlearning/uta-data-science-business-analytics-program.html
+[pgp-dsbacert]: https://la.utexas.edu/texasexeced/digitalVerification.html?key=qRQHw
+[mccombs]: https://www.mccombs.utexas.edu/
+[uta]: https://www.utexas.edu/
 [mba]: https://mba.utdallas.edu/academics/professional-mba-online/
 [utd]: https://www.utdallas.edu/
 [jindal]: https://jindal.utdallas.edu/

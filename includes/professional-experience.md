@@ -1,9 +1,11 @@
 ## Professional Experience
 
-**Senior Analyst, Customer Data & Insights**, [HP][hp] Personal Systems Quality & Reliability, Commercial System & Cost Management,
+**Data & Insights Analyst**, [HP][hp] Personal Systems Customer Experience and Portfolio Strategy,
 Houston, TX, Nov-2019 -- present
 
-* Data analytics and visualizations related to PC product cost and shipments.
+* Project manage development and implementation of internal tools featuring multiple product details used by 500+ salespeople.
+* Develop Tableau dashboards to provide business insights related to product cost, order, and shipment data.
+* Establish and optimize processes for reporting on product cost, orders, and shipments.
 
 **Senior Analyst, Workstation Cost Management**, [HP][hp] Personal Systems Commercial System & Cost Management, 
 Houston, TX, Feb. 2017 -- Oct. 2019
