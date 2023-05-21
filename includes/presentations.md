@@ -1,28 +1,34 @@
 ## Presentations
 
-1. "[**Storytelling for Engineers**][storytelling]" by **Steven Myles**. 
+1. "**My IE Career**" by **Steven Myles**.  [Texas Tech University][ttu]
+  [Department of Industrial, Manufacturing & Systems Enginering][ttuimse]
+  [IE 2401][ie2401] guest presentation, 25 April 2023
+2. "[**Storytelling for Engineers**][storytelling]" by **Steven Myles**. 
   [University of Houston][uh] [Cullen College of Engineering][cullen] 
   [PROMES][promes] [Maximizing Your Power Weekend 2012][mypw], 7--8 September
   2012
-2. "**[University of Houston Engineering Summer Camp][uhcamp] - Young Engineers 
+3. "**[University of Houston Engineering Summer Camp][uhcamp] - Young Engineers 
   Panel Discussion**," [Hewlett-Packard Company][hp], 21 June 2012
-3. "[**Projecting Outsourced Contact Center Agent Availability**][posccaa],"
+4. "[**Projecting Outsourced Contact Center Agent Availability**][posccaa],"
   by **Steven Myles**, Viroj Buraparate, and Sunil Kumar G. [University of 
   Pennsylvania][upenn] [Wharton][wharton] [Financial Institutions Center][fic] 
   [Contact Center Forum 2008][ccforum], 28--29 February 2008
-4. "[**Forecasting and Planning Diagnostic Techniques for Service Operations**][informs07pres],"
+5. "[**Forecasting and Planning Diagnostic Techniques for Service Operations**][informs07pres],"
   by **Steven Myles**, Viroj Buraparate, and Atul Dhawan.  [INFORMS 2007][informs07], 
   4--7 November 2007
-5. "[**Inventory Control for Automated Drug Dispensing Machines: A Service Level 
+6. "[**Inventory Control for Automated Drug Dispensing Machines: A Service Level 
   Policy**][informs07pres]," by [John E. Kobza][jek], **Steven Myles**, Sean Dunagan, Garrett 
   Heath, and Surya D. Liman. [INFORMS 2007][informs07], 4--7 November 2007
-6. "[**Optimization Strategies for Resolving Inventory Problems in Customer Service 
+7. "[**Optimization Strategies for Resolving Inventory Problems in Customer Service 
   Repair Centers**][informs05pres]," by **Steven Myles**, Viroj Buraparate, and 
   Terrell Thruston. [INFORMS 2005][informs05], 13--16 November 2005
-7. "[**Optimal Call Center Capacity Allocation Model**][informs05pres]," by Will 
+8. "[**Optimal Call Center Capacity Allocation Model**][informs05pres]," by Will 
   Lin, Atul Dhawan, **Steven Myles**, and [Saravanan Venkatachalam][saravanan]. 
   [INFORMS 2005][informs05], 13--16 November 2005
-  
+
+[ttu]: https://www.ttu.edu/
+[ttuimse]: https://www.depts.ttu.edu/imse/
+[ie2401]: https://catalog.ttu.edu/preview_course_nopop.php?catoid=19&coid=110250
 [storytelling]: https://stevemyles.site/blog/2012/09/09/storytelling-for-engineers/
 [uh]: https://www.uh.edu/
 [cullen]: https://www.egr.uh.edu/
